@@ -1,0 +1,6 @@
+first_name,last_name,department,email,temporary_password,status
+John,Smith,IT,john.smith@mockcompany.com,oHhfTmQQvwU$,ACCOUNT_CREATED
+Jane,Doe,HR,jane.doe@mockcompany.com,Ox1Lv7GSO%sE,ACCOUNT_CREATED
+Alex,Jones,Marketing,alex.jones@mockcompany.com,*TXtn6k1kE33,ACCOUNT_CREATED
+Sam,Taylor,Finance,sam.taylor@mockcompany.com,fElYR^dy8Hz1,ACCOUNT_CREATED
+Michael,Brown,Operations,michael.brown@mockcompany.com,YTYzss24NA2l,ACCOUNT_CREATED
